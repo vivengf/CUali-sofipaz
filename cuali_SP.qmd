@@ -1,0 +1,280 @@
+---
+title: "El método comparado"
+subtitle: "Inferencia causal, métodos de Mill y selección de casos"
+author: "Sofia Pizarro"
+format:
+  revealjs:
+    title-slide: true
+    slide-number: true
+    transition: slide
+    slide-level: 1
+    scrollable: true
+    theme: dracula
+    auto-stretch: true
+    css: styles.css
+    width: 1920 
+    height: 1080
+---
+
+# ¿Qué es el método comparado?
+
+- Herramienta central de las ciencias sociales
+- Análisis de fenómenos:
+  - Históricos
+  - Sociales
+  - Políticos
+- Comparación sistemática entre casos
+- Identificación de similitudes y diferencias
+
+> **"Comparar es controlar"**
+>
+> — Giovanni Sartori
+
+# Comparación histórica y explicación
+
+## Skocpol & Somers
+
+**Comparación**
+
+↓
+
+**Análisis empírico**
+
+↓
+
+**Construcción teórica**
+
+### La comparación busca identificar
+
+- Patrones
+- Relaciones causales
+- Explicaciones
+
+# La lógica de John Stuart Mill
+
+## ¿Cómo utilizar la comparación para identificar posibles causas?
+
+| Método                | Casos      | Resultado |
+|-----------------------|------------|-----------|
+| **Máxima similitud**  | Similares  | Diferente |
+| **Máxima diferencia** | Diferentes | Similar   |
+
+# Método de máxima similitud
+
+## Casos semejantes → resultados diferentes
+
+**Casos similares**
+
+↓
+
+**Resultado divergente**
+
+↓
+
+**Buscar la diferencia relevante**
+
+### Objetivo
+
+Identificar variables que puedan explicar el resultado divergente.
+
+# Ejemplo: máxima similitud
+
+## Argentina, Chile y Uruguay — década de 1970
+
+| Caso         | Contexto             | Resultado              |
+|--------------|----------------------|------------------------|
+| 🇦🇷 Argentina | Crisis + dependencia | Dictadura militar      |
+| 🇨🇱 Chile     | Crisis + dependencia | Dictadura militar      |
+| 🇺🇾 Uruguay   | Crisis + dependencia | Régimen cívico-militar |
+
+### Posibles variables explicativas
+
+- Institucionalización de los partidos
+- Intensidad de la crisis
+- Relaciones civiles-militares
+
+# Método de máxima diferencia
+
+## Casos diferentes → resultado similar
+
+**Casos diferentes**
+
+↓
+
+**Resultado común**
+
+↓
+
+**Buscar factores compartidos**
+
+### Objetivo
+
+Identificar factores comunes que puedan explicar el resultado.
+
+# Ejemplo: máxima diferencia
+
+## Tres personas, diferentes circunstancias
+
+| Persona | Actividad            |
+|---------|----------------------|
+| A       | Trabajo nocturno     |
+| B       | Estudia en la mañana |
+| C       | Cuida a sus hijos    |
+
+### Resultado común
+
+**Las tres mantienen una buena salud**
+
+### Factor común
+
+**Ejercicio regular**
+
+# Problemas del método comparado
+
+La comparación puede verse afectada por:
+
+- **Sesgo de selección**
+- **Sesgo de valor**
+
+### Problema central
+
+La selección y conceptualización de los casos pueden afectar nuestras conclusiones.
+
+# Sesgo de selección
+
+## "Cherry picking"
+
+Seleccionar casos de manera que favorezcan una explicación determinada.
+
+**Casos seleccionados**
+
+↓
+
+**Evidencia parcial**
+
+↓
+
+**Conclusiones potencialmente sesgadas**
+
+# Ejemplo de sesgo de selección
+
+## ¿Qué casos decidimos comparar?
+
+**Dictaduras latinoamericanas de los años 70**
+
+vs.
+
+**Dictadura franquista en España**
+
+### Pregunta metodológica
+
+> **¿Por qué seleccionamos estos casos y no otros?**
+
+# Sesgo de valor
+
+Las valoraciones previas del investigador pueden influir en:
+
+- Selección de casos
+- Conceptualización
+- Interpretación
+- Evaluación de resultados
+
+# Ejemplo de sesgo de valor
+
+## Educación privada vs. pública
+
+**"La educación privada es superior"**
+
+↓
+
+Los resultados se interpretan desde esa premisa inicial.
+
+### Riesgo
+
+**Valores previos → Interpretación de los datos**
+
+# ¿Qué significa hablar de causalidad?
+
+La comparación permite identificar:
+
+## **Asociaciones**
+
+≠
+
+## **Causalidad demostrada**
+
+Una relación observada puede depender de:
+
+- Variables omitidas
+- Selección de casos
+- Sesgos
+- Contexto histórico
+
+# Comparar no elimina todos los problemas causales
+
+> **Comparar permite controlar;**
+>
+> **no elimina automáticamente todos los problemas causales.**
+
+### Una explicación causal requiere considerar
+
+- Casos seleccionados
+- Variables relevantes
+- Explicaciones alternativas
+- Contexto
+
+# Reflexión final
+
+## Una buena comparación requiere
+
+✓ Selección cuidadosa de casos
+
+✓ Justificación teórica
+
+✓ Control de explicaciones alternativas
+
+✓ Atención a los casos que contradicen la hipótesis
+
+# Reflexión sobre causalidad
+
+### La comparación permite preguntarnos:
+
+**¿Qué diferencia entre los casos podría explicar el resultado?**
+
+pero también:
+
+**¿Qué casos quedaron fuera de nuestra comparación?**
+
+### La selección de casos también forma parte de la explicación causal.
+
+# Conclusiones
+
+### Método comparado
+
+Comparar para identificar patrones y diferencias.
+
+### Mill
+
+**Máxima similitud + máxima diferencia**
+
+### Sesgo
+
+La selección y los valores del investigador pueden afectar la investigación.
+
+### Causalidad
+
+La comparación ayuda a controlar explicaciones, pero no convierte automáticamente una asociación en una relación causal.
+
+# Referencias
+
+- Geddes, B. (1990). *How the Cases You Choose Affect the Answers You Get.*
+
+- Skocpol, T. (1979). *States and Social Revolutions: A Comparative Analysis of France, Russia, and China*
+
+- Somers, M. & Skocpol, T. (1980). *The Uses of Comparative History in Macrosocial Inquiry.*
+
+- Sartori, G. (1994). *Comparing, Miscomparing and the Comparative Method.*
+
+- Landman, T. *Issues and Methods in Comparative Politics.*
+
+- Mill, J. S. *A System of Logic.*
